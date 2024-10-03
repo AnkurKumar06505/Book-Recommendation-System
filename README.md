@@ -19,6 +19,7 @@ Publisher
 
 URLs for small, medium, and large images of the book covers
 
+
 Users Dataset:
 
 Stores information about users, including:
@@ -28,6 +29,7 @@ User ID (unique identifier for each user)
 Location (city, state, and country)
 
 Age (some values are missing and need preprocessing)
+
 
 Ratings Dataset:
 
