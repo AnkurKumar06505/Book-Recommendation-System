@@ -1,4 +1,4 @@
-### Book Recommender System
+## Book Recommender System
 This project develops a Book Recommender System that suggests books to users based on their preferences and historical data. The recommendation system utilizes collaborative filtering techniques, commonly used in recommendation engines, to make personalized book suggestions.
 
 Datasets Used
