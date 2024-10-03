@@ -43,7 +43,9 @@ Similarity Calculation: The system computes the similarity between users or book
 Recommendation Generation: Based on the calculated similarities, the system recommends books to users by finding books that were liked by similar users but haven't yet been rated by the target user.
 
 Technologies and Libraries
-Python: The entire system is implemented in Python, making use of the following libraries:
+
+Python:
+The entire system is implemented in Python, making use of the following libraries:
 Pandas for data manipulation and analysis.
 NumPy for numerical operations.
 Scikit-learn for building the collaborative filtering model.
